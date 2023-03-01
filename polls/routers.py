@@ -1,5 +1,5 @@
 from rest_framework.routers import DefaultRouter
-from .viewsets import PollViewSet, ChoiceList
+from .viewsets import PollViewSet
 
 
 router = DefaultRouter()
